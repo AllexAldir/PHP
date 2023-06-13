@@ -2,33 +2,36 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
-    <link rel="stylesheet" href="recursos/css/estilo.css">
-    <title>Curso PHP</title>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
+  <link rel="stylesheet" href="recursos/css/estilo.css">
+  <title>Curso PHP</title>
 </head>
 
 <body>
-    <header class="cabecalho">
-        <h1>Curso PHP</h1>
-        <h2>Índice dos Exercícios</h2>
-    </header>
-    <main class="principal">
-        <div class="conteudo">
-            <nav class="modulos">
-                <div class="modulo verde">
-                    <h3>Módulo 01</h3>
-                    <ul>
-                        <li><a href="basico/ex01.php?dir=basico&file=ex01.php">Exercício A</a></li>
+  <header class="cabecalho">
+    <h1>Curso PHP</h1>
+    <h2>Índice dos Exercícios</h2>
+  </header>
+  <main class="principal">
+    <div class="conteudo">
+      <nav class="modulos">
+        <div class="modulo verde">
+          <h3>Módulo 01</h3>
+          <ul>
 
-                    </ul>
-                </div>
-            </nav>
+            <li><a href="exercicio.php?dir=PHP&file=exercicio.php">Exercício geral</a></li>
+            <li><a href="basico/ex01.php?dir=basico&file=ex01.php">Exercício A</a></li>
+            <li><a href="basico/html_php.php?dir=basico&file=html_php.php">HTML</a></li>
+
+          </ul>
         </div>
-    </main>
-    <footer class="rodape">
-       Curso <?= date('Y'); ?>
-    </footer>
+      </nav>
+    </div>
+  </main>
+  <footer class="rodape">
+    Curso <?= date('Y'); ?>
+  </footer>
 </body>
 
 </html>

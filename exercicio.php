@@ -21,7 +21,7 @@
   <main class="principal">
     <div class="conteudo">
       <?php
-      include($_GET['PHP'] . 'teste.php') //Concatenando de forma dinâmica passando como parâmetro o 'dir';
+      include($_GET['basico'] . 'basico/html_php.php'); //Concatenando de forma dinâmica passando como parâmetro o 'dir';
       //include(__DIR__ . "/{$_GET['PHP']}/{$_GET['teste']}.php");
       ?>
     </div>
