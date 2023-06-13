@@ -11,18 +11,18 @@
 
 <body class="exercicio">
   <header class="cabecalho">
-    <h1>Curso PHP</h1>
-    <h2>Visualização do Exercício</h2>
+    <h1>Exercicio Page</h1>
+    <!-- <h2>Visualização do Exercício</h2> -->
   </header>
   <nav class="navegacao">
-    <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
+    <a href=<?= ($_GET['PHP'] . 'teste.php') ?> class="verde">Sem formatação</a>
     <a href="index.php" class="vermelho">Voltar</a>
   </nav>
   <main class="principal">
     <div class="conteudo">
       <?php
-      include('teste.php')
-      //include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
+      include($_GET['PHP'] . 'teste.php') //Concatenando de forma dinâmica passando como parâmetro o 'dir';
+      //include(__DIR__ . "/{$_GET['PHP']}/{$_GET['teste']}.php");
       ?>
     </div>
   </main>
