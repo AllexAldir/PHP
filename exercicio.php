@@ -30,7 +30,7 @@
   </main>
   <footer class="rodape">
     CURSO PHP <?= date('Y'); ?>
-  </footer>
+  </footer> 
 </body>
 
 </html>
