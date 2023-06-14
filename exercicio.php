@@ -23,6 +23,8 @@
       <?php
       include($_GET['basico'] . 'basico/html_php.php'); //Concatenando de forma dinâmica passando como parâmetro o 'dir';
       //include(__DIR__ . "/{$_GET['PHP']}/{$_GET['teste']}.php");
+      include($_GET['basico'] . 'basico/integracao_css.php'); //Concatenando de forma dinâmica passando como parâmetro o 'dir';
+
       ?>
     </div>
   </main>
