@@ -23,7 +23,17 @@
             <li><a href="exercicio.php?dir=PHP&file=exercicio.php">Exercício geral</a></li>
             <li><a href="basico/ex01.php?dir=basico&file=ex01.php">Exercício A</a></li>
             <li><a href="basico/html_php.php?dir=basico&file=html_php.php">HTML</a></li>
+            <li><a href="basico/comentarios_php.php?dir=basico&file=comentarios_php.php">Comentarios</a></li>
+            <li><a href="desafio.php/des01.php?dir=desafio.php&file=des01.php">Desafios PHP</a></li>
+            
+          </ul>
+        </div>
+        <div class="modulo vermelho">
+          <h3>Módulo 02</h3>
+          <ul>
 
+            <li><a href="types.php/int.php?dir=types.php&file=int.php">Type_int</a></li>
+            
           </ul>
         </div>
       </nav>
