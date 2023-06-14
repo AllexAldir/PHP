@@ -33,6 +33,9 @@
           <ul>
 
             <li><a href="types.php/int.php?dir=types.php&file=int.php">Type_int</a></li>
+            <li><a href="types.php/float.php?dir=types.php&file=float.php">Type_float</a></li>
+            <li><a href="types.php/op_aritimeticas.php?dir=types.php&file=op_aritimeticas.php">OP_Ari</a></li>
+            <li><a href="desafio.php/des02.php?dir=desafio.php&file=des02.php">Desafio Prece</a></li>
             
           </ul>
         </div>
