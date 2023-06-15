@@ -25,7 +25,7 @@
             <li><a href="basico/html_php.php?dir=basico&file=html_php.php">HTML</a></li>
             <li><a href="basico/comentarios_php.php?dir=basico&file=comentarios_php.php">Comentarios</a></li>
             <li><a href="desafio.php/des01.php?dir=desafio.php&file=des01.php">Desafios PHP</a></li>
-            
+
           </ul>
         </div>
         <div class="modulo vermelho">
@@ -37,7 +37,8 @@
             <li><a href="types.php/op_aritimeticas.php?dir=types.php&file=op_aritimeticas.php">OP_Ari</a></li>
             <li><a href="desafio.php/des02.php?dir=desafio.php&file=des02.php">Desafio Prece</a></li>
             <li><a href="string.php?dir=PHP&file=string.php">String_PHP</a></li>
-            
+            <li><a href="desafio.php/desafio_string.php?dir=teste&file=testgad">Desafio PHP</a></li>
+
           </ul>
         </div>
       </nav>
