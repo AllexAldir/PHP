@@ -38,6 +38,7 @@
             <li><a href="desafio.php/des02.php?dir=desafio.php&file=des02.php">Desafio Prece</a></li>
             <li><a href="string.php?dir=PHP&file=string.php">String_PHP</a></li>
             <li><a href="desafio.php/desafio_string.php?dir=teste&file=testgad">Desafio PHP</a></li>
+            <li><a href="basico/type_boolean.php?dir=basico&file=type_boolean">Tipo Boolean</a></li>
 
           </ul>
         </div>
