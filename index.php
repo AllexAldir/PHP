@@ -48,6 +48,7 @@
           <ul>
 
             <li><a href="basico/variaveis.php?dir=basico&file=variaveis.php">Variáveis</a></li>
+            <li><a href="desafio.php/desafio_var.php?dir=desafio.php&file=desafio_variaveis">Variáveis Desafio</a></li>
 
 
           </ul>

@@ -18,4 +18,4 @@ echo isset($numAleatorio);
 // };
 
 // $array = ['teste','teste2'];
-// var_dump($array); 
+echo ($_SERVER["HTTP_HOST"]); // Variáveis pré-definadas
