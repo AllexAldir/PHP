@@ -43,6 +43,15 @@
 
           </ul>
         </div>
+        <div class="modulo laranja">
+          <h3>Módulo 03</h3>
+          <ul>
+
+            <li><a href="basico/variaveis.php?dir=basico&file=variaveis.php">Variáveis</a></li>
+
+
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
