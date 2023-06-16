@@ -49,6 +49,8 @@
 
             <li><a href="basico/variaveis.php?dir=basico&file=variaveis.php">Variáveis</a></li>
             <li><a href="desafio.php/desafio_var.php?dir=desafio.php&file=desafio_variaveis">Variáveis Desafio</a></li>
+            <li><a href="basico/atribuicao.php?dir=basico&file=atribuicao.php">Atribuicao Var</a></li>
+            <li><a href="basico/interpolacao.php?dir=basico&file=interpolacao.php">Interpolação PHP</a></li>
 
 
           </ul>
