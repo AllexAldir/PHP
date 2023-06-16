@@ -18,4 +18,4 @@ echo isset($numAleatorio);
 // };
 
 // $array = ['teste','teste2'];
-// var_dump($array);
+// var_dump($array); 
