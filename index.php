@@ -53,6 +53,7 @@
             <li><a href="basico/interpolacao.php?dir=basico&file=interpolacao.php">Interpolação PHP</a></li>
             <li><a href="basico/variaveis_variaveis.php?dir=basico&file=variaveis_variaveis.php">Variaveis Variaveis</a></li>
             <li><a href="basico/atribuicao_referencia.php?dir=basico&file=variaveis_variaveis.php">Atribuição Referência</a></li>
+            <li><a href="basico/constantes.php?dir=basico&file=constantes.php">Constantes</a></li>
 
 
           </ul>
