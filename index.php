@@ -58,6 +58,16 @@
 
           </ul>
         </div>
+        <div class="modulo azul">
+          <h3>Módulo 03</h3>
+          <ul>
+
+            <li><a href="basico/if_else.php?dir=basico&file=if_else.php">If Else</a></li>
+            <li><a href="basico/operadores_relacionais.php?dir=basico&file=operadores_relacionais.php">Operadores Relacionais</a></li>
+
+
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
