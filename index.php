@@ -64,6 +64,11 @@
 
             <li><a href="basico/if_else.php?dir=basico&file=if_else.php">If Else</a></li>
             <li><a href="basico/operadores_relacionais.php?dir=basico&file=operadores_relacionais.php">Operadores Relacionais</a></li>
+            <li><a href="basico/operadores_relacionais.php?dir=basico&file=operadores_relacionais.php">Spaceship</a></li>
+            <li><a href="desafio.php/desafio_pi.php?dir=basico&file=operadores_relacionais.php">desafio</a></li>
+            <li><a href="basico/op_logicos.php?dir=basico&file=op_logicos.php">Oper.Logicos</a></li>
+            <li><a href="desafio.php/des_form.php?dir=desafio&file=op_logicos.php">Desa_form</a></li>
+            <li><a href="basico/operador_ternario.php?dir=operador&file=op_logicos.php">Oper.ternario</a></li>
 
 
           </ul>
