@@ -69,6 +69,8 @@
             <li><a href="basico/op_logicos.php?dir=basico&file=op_logicos.php">Oper.Logicos</a></li>
             <li><a href="desafio.php/des_form.php?dir=desafio&file=op_logicos.php">Desa_form</a></li>
             <li><a href="basico/operador_ternario.php?dir=operador&file=op_logicos.php">Oper.ternario</a></li>
+            <li><a href="basico/switch.php?dir=basico&file=switch.php">Switch Case</a></li>
+            <li><a href="desafio.php/des_switch.php?dir=desafio&file=switch.php">Desafio Switch</a></li>
 
 
           </ul>
