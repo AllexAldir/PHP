@@ -75,6 +75,16 @@
 
           </ul>
         </div>
+        <div class="modulo roxo">
+          <h3>Módulo 04</h3>
+          <ul>
+
+            <li><a href="basico/array.php?dir=basico&file=array.php">Array</a></li>
+            
+
+
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
