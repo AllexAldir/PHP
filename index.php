@@ -80,6 +80,7 @@
           <ul>
 
             <li><a href="basico/array.php?dir=basico&file=array.php">Array</a></li>
+            <li><a href="basico/opArray.php?dir=basico&file=array.php">opArra</a></li>
             
 
 
