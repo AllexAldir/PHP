@@ -81,7 +81,10 @@
 
             <li><a href="basico/array.php?dir=basico&file=array.php">Array</a></li>
             <li><a href="basico/opArray.php?dir=basico&file=array.php">opArra</a></li>
-            
+            <li><a href="desafio.php/sortei.php?dir=basico&file=sorteio.php">Sorteio</a></li>
+            <li><a href="basico/arrayMultide.php?dir=basico&file=arrayMultide.php">arrayMultidime</a></li>
+            <li><a href="basico/arrayMultide.php?dir=basico&file=arrayMultide.php">arrayConatantes</a></li>
+
 
 
           </ul>
