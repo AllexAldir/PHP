@@ -84,6 +84,8 @@
             <li><a href="desafio.php/sortei.php?dir=basico&file=sorteio.php">Sorteio</a></li>
             <li><a href="basico/arrayMultide.php?dir=basico&file=arrayMultide.php">arrayMultidime</a></li>
             <li><a href="basico/arrayMultide.php?dir=basico&file=arrayMultide.php">arrayConatantes</a></li>
+            <li><a href="basico/$_get.php?dir=basico&file=$_get.php">Utilizando o get</a></li>
+            <li><a href="basico/$_post.php?dir=basico&file=$_get.php">Utilizando o post</a></li>
 
 
 
