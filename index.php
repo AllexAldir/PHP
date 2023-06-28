@@ -86,8 +86,18 @@
             <li><a href="basico/arrayMultide.php?dir=basico&file=arrayMultide.php">arrayConatantes</a></li>
             <li><a href="basico/$_get.php?dir=basico&file=$_get.php">Utilizando o get</a></li>
             <li><a href="basico/$_post.php?dir=basico&file=$_get.php">Utilizando o post</a></li>
+            <li><a href="basico/$for.php?dir=basico&file=$for.php">Utilizando o For</a></li>
 
 
+
+          </ul>
+        </div>
+        <div class="modulo verde-escuro">
+          <h3>Módulo 04</h3>
+          <ul>
+
+            <li><a href="basico/for.php?dir=basico&file=for.php">Utilizando o For</a></li>
+            <li><a href="basico/for.php?dir=basico&file=for.php">Utilizando o Foreach</a></li>
 
           </ul>
         </div>
