@@ -98,6 +98,8 @@
 
             <li><a href="basico/for.php?dir=basico&file=for.php">Utilizando o For</a></li>
             <li><a href="basico/for.php?dir=basico&file=for.php">Utilizando o Foreach</a></li>
+            <li><a href="basico/for.php?dir=basico&file=for.php">Break/Continue</a></li>
+            <li><a href="basico/for.php?dir=basico&file=for.php">while / do while</a></li>
 
           </ul>
         </div>
