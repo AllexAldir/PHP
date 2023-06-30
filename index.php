@@ -103,6 +103,14 @@
 
           </ul>
         </div>
+        <div class="modulo roxo-escuro">
+          <h3>Módulo 06</h3>
+          <ul>
+
+            <li><a href="funcoes/escorpo.php?dir=funcoes&file=escorpo.php">funcoes</a></li>
+
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
