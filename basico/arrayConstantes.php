@@ -8,4 +8,4 @@ const carros = [
 
 define('Cidade', ['fortaleza','maceió']);//-> Outra forma de declarar constantes
 
-echo carros['modelo'];
+print_r(Cidade[0]);
