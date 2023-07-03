@@ -109,6 +109,7 @@
 
             <li><a href="funcoes/escorpo.php?dir=funcoes&file=escorpo.php">funcoes</a></li>
             <li><a href="funcoes/argumento_retorno.php?dir=funcoes&file=escorpo.php">Argumentos e Retorno</a></li>
+            <li><a href="funcoes/argumento_retorno.php?dir=funcoes&file=escorpo.php">Argumentos Váriaveis</a></li>
 
           </ul>
         </div>
