@@ -111,6 +111,16 @@
             <li><a href="funcoes/argumento_retorno.php?dir=funcoes&file=escorpo.php">Argumentos e Retorno</a></li>
             <li><a href="funcoes/argumento_retorno.php?dir=funcoes&file=escorpo.php">Argumentos Váriaveis</a></li>
             <li><a href="funcoes/retornando_funcao.php?dir=funcoes&file=escorpo.php">Retornando funcao</a></li>
+            <li><a href="funcoes/map_filter.php?dir=funcoes&file=escorpo.php">Map and Filter</a></li>
+
+          </ul>
+        </div>
+
+        <div class="modulo roxo-escuro">
+          <h3>Módulo 06</h3>
+          <ul>
+
+            <li><a href="Poo/escorpo.php?dir=Poo&file=classes.php">Classes_Obj</a></li>
 
           </ul>
         </div>
