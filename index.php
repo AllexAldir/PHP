@@ -121,6 +121,8 @@
           <ul>
 
             <li><a href="Poo/escorpo.php?dir=Poo&file=classes.php">Classes_Obj</a></li>
+            <li><a href="Poo/paradigmas.php?dir=Poo&file=paradigmas.php">Paradgimas POO</a></li>
+            <li><a href="Poo/heranca.php?dir=Poo&file=heranca.php">Herança</a></li>
 
           </ul>
         </div>
