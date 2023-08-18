@@ -20,14 +20,31 @@ class Pessoa
 
 	public function showAll(): void
 	{
-		echo("{$this->nome} \n");
-		echo("{$this->idade} \n");
-		echo("{$this->sobrenome}");
+		echo ("{$this->nome} \n");
+		echo ("{$this->idade} \n");
+		echo ("{$this->sobrenome}");
 	}
 }
 
 
-$P1 = new Pessoa('Gabriel',30,'teste');
+$P1 = new Pessoa('Gabriel', 30, 'teste');
 
 $P1->showAll();
 //echo("{$P1->nome}");
+
+
+//-> Criando a classe Carro:
+
+class Veiculo
+{
+	public string $modelo;
+	public int $ano;
+	public float $preco;
+
+	function __construct(string $model, int $ano, float $preco)
+	{
+		$this->modelo = $model;
+		$this->ano = $ano;
+		$this->preco = $preco;
+	}
+}
