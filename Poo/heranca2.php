@@ -1,5 +1,7 @@
 <?php
 
+namespace Users;
+
 //-> Utilizando Trait:
 
 trait ATR1 //-> Caracteríscas específicas as quais são passadas para um objeto
@@ -20,12 +22,12 @@ trait ATR2 //-> Caracteríscas específicas as quais são passadas para um objet
 class Pessoa
 {
 	public $nome;
-	public $idadae;
+	public $idade;
 
 	function __construct(string $nomeUser, string $idadeUser)
 	{
 		$this->nome = $nomeUser;
-		$this->sobrenome = $idadeUser;
+		$this->idade = $idadeUser;
 	}
 
 	function ok()
@@ -38,8 +40,8 @@ class Usuario extends Pessoa
 {
 	public $login;
 
-	use ATR1, ATR2{
-		ATR1:: sayHello insteadof ATR2;
+	use ATR1, ATR2 {
+		ATR1::sayHello insteadof ATR2;
 	} //-> Utilizando características
 
 	function __construct($nome, $idade, $login)
@@ -59,4 +61,6 @@ $rs = new Pessoa('Lucas', 78);
 
 $user = new Usuario('Tiago', 8, 'teste');
 
-$resultadoUser = $user->sayHello();
+//$resultadoUser = $user->sayHello();
+?>
+
