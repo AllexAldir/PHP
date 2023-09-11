@@ -35,6 +35,7 @@ class B extends A
 
   function showAtrr(): void
   {
+    //parent::showAtrr(); -> Acessa os métodos do pai
     echo ("O nome é: {$this->nome}");
     echo ("O idade é: {$this->idade}");
     echo ("O sobrenome é: {$this->sobrenome_B}"); //-> Aqui não é possível exibir o conteúdo da classe A
