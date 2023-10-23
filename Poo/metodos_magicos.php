@@ -69,8 +69,9 @@ $call = new estudos('Teste', 40);
 
 //$call->exec('Teste', [1, 1, 2, 2]);
 $call->Teste = 'Teste do set';
-if (isset($call->Teste)) 
-{
+if (isset($call->Teste)) {
 	//-> Verificando se já existe dentro do array
 	echo 'Já existe';
+} else {
+	$call->Teste2 = 1;
 }
